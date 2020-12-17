@@ -1,4 +1,4 @@
-FROM dockersamples/stativ-site
+FROM dockersamples/static-site
 ENV AUTHOR="Yusuke"
 
 
